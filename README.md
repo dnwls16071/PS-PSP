@@ -52,42 +52,42 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+
+[[프로그래머스] 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+
+[[프로그래머스] 로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
+
+[[프로그래머스] [1차]다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
+
+[[프로그래머스] 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+
+[[프로그래머스] 소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977)
 
 [[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] [1차]비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-
-[[프로그래머스] 크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+[[프로그래머스] 부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
