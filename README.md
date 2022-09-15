@@ -90,8 +90,6 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 
-[[프로그래머스] 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
-
 
 
 
@@ -103,4 +101,4 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 
-[[프로그래머스] 최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+[[프로그래머스] 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
