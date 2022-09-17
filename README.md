@@ -104,4 +104,7 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 
+[[프로그래머스] 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+
+[[프로그래머스] 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 
