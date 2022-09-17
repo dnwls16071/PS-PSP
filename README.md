@@ -108,3 +108,4 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 
+[[프로그래머스] 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
