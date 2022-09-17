@@ -116,7 +116,7 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 
-[[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+[[프로그래머스] N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
 [[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 
