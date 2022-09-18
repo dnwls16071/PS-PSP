@@ -124,5 +124,7 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] 점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 
-[[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+[[프로그래머스] [1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+
+[[프로그래머스] 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
 
