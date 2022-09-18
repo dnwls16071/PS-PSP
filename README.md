@@ -118,11 +118,11 @@ Programmers School Problems Solving by Python(파이썬을 이용한 프로그�
 
 [[프로그래머스] N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)
 
-[[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+[[프로그래머스] 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 
-[[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+[[프로그래머스] 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
 
-[[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+[[프로그래머스] 점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 
 [[프로그래머스] 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 
